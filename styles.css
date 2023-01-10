@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+
+.smoothie {
+    width: 600px;
+    height: auto;
+}
+
+.spam {
+    width: 700px;
+    height: auto;
+}
+
+.link {
+    font-size: 20px;
+}
+
+ul li {
+    color: brown;
+}
+
+ol li {
+    color: blueviolet;
+}
