@@ -1,5 +1,10 @@
+body {
+    background-color: bisque;
+}
+
 h1 {
     text-align: center;
+    background-color: indianred;
 }
 
 .smoothie {
@@ -14,6 +19,14 @@ h1 {
 
 .link {
     font-size: 20px;
+}
+
+.link.smoothie-link {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.link.spam-link {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 ul li {
